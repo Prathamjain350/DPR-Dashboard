@@ -21,7 +21,7 @@ It enables stakeholders to:
 ---
 🌐 Live Power BI Dashboard
 
-You can explore the interactive Power BI dashboard here 👇    https://app.powerbi.com/groups/me/reports/6976f68b-2b9e-47b4-958e-cd09a169b95b/7004e1b2f46451e6e16f?experience=power-bi
+You can explore the interactive Power BI dashboard here 👉  https://app.powerbi.com/groups/me/reports/6976f68b-2b9e-47b4-958e-cd09a169b95b/7004e1b2f46451e6e16f?experience=power-bi
 
 ---
 

@@ -16,7 +16,12 @@ It enables stakeholders to:
 - Provide a single consolidated view of *production KPIs*  
 - Reduce *material wastage* by identifying inefficiencies  
 - Enable *real-time decision-making* with daily refreshed data  
-- Support *cross-platform shipment analysis* (Amazon, Flipkart, Myntra, Blinkit)  
+- Support *cross-platform shipment analysis* (Amazon, Flipkart, Myntra, Blinkit)
+
+---
+🌐 Live Power BI Dashboard
+
+You can explore the interactive Power BI dashboard here 👇 👉 https://app.powerbi.com/groups/me/reports/6976f68b-2b9e-47b4-958e-cd09a169b95b/7004e1b2f46451e6e16f?experience=power-bi
 
 ---
 
@@ -72,12 +77,5 @@ It enables stakeholders to:
 
 ## 👤 Author
  Pratham Jain
-
- ---
- 
- 🌐 Live Power BI Dashboard
-
-You can explore the interactive Power BI dashboard here 👇
-👉 https://app.powerbi.com/groups/me/reports/6976f68b-2b9e-47b4-958e-cd09a169b95b/7004e1b2f46451e6e16f?experience=power-bi
 
 ⭐ If you find this dashboard inspiring, consider giving this repo a *star*!
